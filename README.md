@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chamesh</h1>
 <h3 align="center">A Countryside Student Doing Things For Fun</h3>
 
-- 👨‍💻 All of my projects are available at [k](k)
+- 👨‍💻 All of my projects are available at [here](http://github.com/chamesh2019?tab=repositories)
 
 - 💬 Ask me about **python, javascript**
 
