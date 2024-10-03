@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **python, javascript**
 
-- 📫 How to reach me **chamesh2020@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/chameshdinuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chameshdinuka" height="30" width="40" /></a>
